@@ -1,7 +1,3 @@
-I see what you're looking for! Here's a more structured, clean, and organized **README** file for your project. I've divided it into appropriate sections with headers and clear explanations. This version should make it easier to follow and look better when previewed on platforms like GitHub or any Markdown reader.
-
----
-
 # **Linear Regression with PyTorch**
 
 ## **Project Overview**
@@ -183,9 +179,6 @@ Final Loss: tensor([...])
 
 This project demonstrates the fundamentals of linear regression using PyTorch. It teaches the basic concepts of model training, loss function computation, backpropagation, and gradient descent in a simple and understandable way.
 
-Feel free to modify the dataset or adjust hyperparameters like the learning rate or the number of epochs to experiment with different results!
-
----
 
 ### **License**
 This project is open-source and available under the [MIT License](LICENSE).
